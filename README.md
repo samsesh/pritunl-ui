@@ -1,2 +1,2 @@
 ## Pritunl web interface 
-jsut run ```sudo bash update.sh ```
+for change web ui just run ```sudo bash update.sh ```
